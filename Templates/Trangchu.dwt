@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<script src="../Jav/slideshow.js"></script>
+<link href="../Css/css.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div class="container">
+	<header> <img src="../Images/images.png" height="230" alt=""/></header>
+	<nav>
+		<a href="../trangchu.html">Trang chủ</a>
+		<a href="#"> Liên Hệ</a>
+		<a href="#"> Hỗ Trợ</a>
+		<a href="../ao.html"> Áo</a>
+		<a	href="../quan.html">Quần</a>
+		</nav>
+        <div id="anh">
+   <img id="hinhslide" src="../Images/Slider/1.jpg" width="850" height="315"/>
+   
+   <div id="previous"> <img src="../Images/Slider/prev.png" onclick="back()"/></div>
+   
+   <div id="next"> <img src="../Images/Slider/next.png" onclick="next()" /></div>
+  </div>
+	
+	<!-- TemplateBeginEditable name="aside" -->
+	
+		
+		
+	<!-- TemplateEndEditable -->
+	<footer><div class="footer_left">
+			<li> Liên Hệ: 022243561234</li>
+			<li> Gmail: trinhhongson@gmail.com</li>
+		</div>
+	<p>Cảm ơn bạn đã ghé thăm shop của chúng tôi !</p>
+		
+	</footer>
+	</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
